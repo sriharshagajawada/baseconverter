@@ -1,3 +1,4 @@
+'use strict';
 const inputElement = document.getElementById("inputEl");
 const button = document.getElementById('mainButton');
 const outPut = document.getElementById("txtarea");
